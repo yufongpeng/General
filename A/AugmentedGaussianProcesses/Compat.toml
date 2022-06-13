@@ -1,4 +1,5 @@
 ["0-0.3"]
+DelimitedFiles = ["0.7", "1"]
 julia = ["0.7", "1"]
 
 ["0-0.4.1"]
@@ -51,6 +52,7 @@ AdvancedHMC = "0.2.13-0.3"
 GPLikelihoods = "0.2"
 
 ["0.4-0.4.1"]
+DelimitedFiles = "1.1-1"
 MLKernels = "0.0.0-0.4"
 julia = "1.1-1"
 
